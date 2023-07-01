@@ -1,4 +1,6 @@
-# Cloudflare Email Gem
+# Cloudflare Email
+
+[![GitHub Workflow Status](https://github.com/albertski/cloudflare-email/actions/workflows/main.yml/badge.svg)](https://github.com/albertski/cloudflare-email/actions)
 
 The Cloudflare Email gem is a Ruby library for sending emails using Workers with MailChannels.
 
